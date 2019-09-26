@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 3358868589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5af454a01864755a43a9c117516328a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aef57ec0bc97ae67d24dbc0c97ef1adf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7106950a06563f4a893b4e239e2e1ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1c5b7f06ff29d743b309cb5d27cf48e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0d59af3a12d9274982db5c26b991c8d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c172444d4638384fb2ba920744553ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 634a4bf59fbb8aa42bdaf044f0107bb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7198ae67c7f9bd14b86134e395d11f86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b26388f83a552b34592994aa9b47c643, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f23db5ace4481b478f0f86b67746813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6f4adbb68873874f8ea675c6a9adca3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 096038fb2be401645bb42481542ffef7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dafbb7ec1700e8147a48dbed2e4e543c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f1ee1adc36a8a04a8d7c42ac5d6bc27, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adeec4ed250bae44d8777078a3ec1e00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 308e904e3f33207489a2c15b9b0b297b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2101f97e0e368014cba8f91aa17db33a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f718ba9eaf9cd9a48923922e5df94070, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Test/Resources/hiyori/hiyori.prefab
+- Assets/Test/Resources/hiyori/Animation/hiyori.controller
+- Assets/Test/Resources/hiyori/hiyori.fadeMotionList.asset
+Dependencies: []

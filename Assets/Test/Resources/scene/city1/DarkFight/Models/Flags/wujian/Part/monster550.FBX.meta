@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 9a3aecb6d39828645ad4ae7c87ee43c9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone04
+    100004: Bone03
+    100006: Bone02
+    100008: Bone01
+    100010: XXX_pelvisR_01
+    100012: XXX_pelvisL_01
+    100014: XXX_kneeR_01
+    100016: XXX_F_objR_01
+    100018: BoneGua05!T
+    100020: xxx_footR_01
+    100022: Bip01 R Toe0Nub
+    100024: Bip01 R Toe0
+    100026: Bip01 R Foot
+    100028: Bip01 R Calf
+    100030: Bip01 R Thigh
+    100032: XXX_kneeL_01
+    100034: XXX_F_objL_01
+    100036: BoneGua06!T
+    100038: xxx_footL_01
+    100040: Bip01 L Toe0Nub
+    100042: Bip01 L Toe0
+    100044: Bip01 L Foot
+    100046: Bip01 L Calf
+    100048: Bip01 L Thigh
+    100050: XXX_abdomen_01
+    100052: XXX_elbowR_01
+    100054: Bip01 R Finger0
+    100056: XXX_H_objR_01
+    100058: BoneGua04!T
+    100060: xxx_handR_01
+    100062: Bip01 R Hand
+    100064: Bip01 R Forearm
+    100066: XXX_elbowL_01
+    100068: Bip01 L Finger0
+    100070: XXX_H_objL_01
+    100072: BoneGua03!T
+    100074: xxx_handL_01
+    100076: Bip01 L Hand
+    100078: Bip01 L Forearm
+    100080: XXX_P_obj_01
+    100082: BoneGua01!T
+    100084: xxx_head_01
+    100086: BoneRZJ15
+    100088: BoneRMei01
+    100090: BoneLMei03
+    100092: BoneRUe05
+    100094: BoneLZJ17
+    100096: BoneZui13
+    100098: Bip01 HeadNub
+    100100: Bip01 Head
+    100102: Bip01 Neck1
+    100104: Bip01 Neck
+    100106: Bip01 Spine2
+    100108: XXX_B_obj_01
+    100110: BoneGua02!T
+    100112: xxx_back_01
+    100114: xxx_body_01
+    100116: Bip01 Spine1
+    100118: Bip01 Spine
+    100120: Bip01 Pelvis
+    100122: Bip01
+    100124: monster550
+    100126: Bip01 L Clavicle
+    100128: Bip01 R HorseLink
+    100130: Bip01 L HorseLink
+    100132: XXX_shoulderR_01
+    100134: Bip01 R Finger0Nub
+    100136: Bip01 R Finger01
+    100138: Bip01 R UpperArm
+    100140: Bip01 R Clavicle
+    100142: XXX_shoulderL_01
+    100144: Bip01 L Finger0Nub
+    100146: Bip01 L Finger01
+    100148: Bip01 L UpperArm
+    400000: //RootNode
+    400002: Bone04
+    400004: Bone03
+    400006: Bone02
+    400008: Bone01
+    400010: XXX_pelvisR_01
+    400012: XXX_pelvisL_01
+    400014: XXX_kneeR_01
+    400016: XXX_F_objR_01
+    400018: BoneGua05!T
+    400020: xxx_footR_01
+    400022: Bip01 R Toe0Nub
+    400024: Bip01 R Toe0
+    400026: Bip01 R Foot
+    400028: Bip01 R Calf
+    400030: Bip01 R Thigh
+    400032: XXX_kneeL_01
+    400034: XXX_F_objL_01
+    400036: BoneGua06!T
+    400038: xxx_footL_01
+    400040: Bip01 L Toe0Nub
+    400042: Bip01 L Toe0
+    400044: Bip01 L Foot
+    400046: Bip01 L Calf
+    400048: Bip01 L Thigh
+    400050: XXX_abdomen_01
+    400052: XXX_elbowR_01
+    400054: Bip01 R Finger0
+    400056: XXX_H_objR_01
+    400058: BoneGua04!T
+    400060: xxx_handR_01
+    400062: Bip01 R Hand
+    400064: Bip01 R Forearm
+    400066: XXX_elbowL_01
+    400068: Bip01 L Finger0
+    400070: XXX_H_objL_01
+    400072: BoneGua03!T
+    400074: xxx_handL_01
+    400076: Bip01 L Hand
+    400078: Bip01 L Forearm
+    400080: XXX_P_obj_01
+    400082: BoneGua01!T
+    400084: xxx_head_01
+    400086: BoneRZJ15
+    400088: BoneRMei01
+    400090: BoneLMei03
+    400092: BoneRUe05
+    400094: BoneLZJ17
+    400096: BoneZui13
+    400098: Bip01 HeadNub
+    400100: Bip01 Head
+    400102: Bip01 Neck1
+    400104: Bip01 Neck
+    400106: Bip01 Spine2
+    400108: XXX_B_obj_01
+    400110: BoneGua02!T
+    400112: xxx_back_01
+    400114: xxx_body_01
+    400116: Bip01 Spine1
+    400118: Bip01 Spine
+    400120: Bip01 Pelvis
+    400122: Bip01
+    400124: monster550
+    400126: Bip01 L Clavicle
+    400128: Bip01 R HorseLink
+    400130: Bip01 L HorseLink
+    400132: XXX_shoulderR_01
+    400134: Bip01 R Finger0Nub
+    400136: Bip01 R Finger01
+    400138: Bip01 R UpperArm
+    400140: Bip01 R Clavicle
+    400142: XXX_shoulderL_01
+    400144: Bip01 L Finger0Nub
+    400146: Bip01 L Finger01
+    400148: Bip01 L UpperArm
+    4300000: monster550
+    7400000: Take 001
+    7400002: monster550
+    11100000: //RootNode
+    13700000: monster550
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: monster550
+      takeName: 
+      firstFrame: 3
+      lastFrame: 114
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
